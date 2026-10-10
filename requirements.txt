@@ -1,0 +1,21 @@
+# IAT Book Generator — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+
+# Vector store
+chromadb
+
+# PDF processing (superior to pypdf for layout)
+PyMuPDF
+
+# Embeddings model runner
+sentence-transformers
+
+# Utilities
+python-dotenv
+requests
